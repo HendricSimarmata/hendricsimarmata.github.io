@@ -10,7 +10,7 @@ title: Hendric Simarmata
 <html>
    <head>
       <title>HTML Meta Tag</title>
-      <meta http-equiv = "refresh" content = "2; url = https://hendricsimarmata.com" />
+      <!-- <meta http-equiv = "refresh" content = "2; url = https://hendricsimarmata.com" /> -->
    </head>
    <body>
       <p>Hello HTML5!</p>
